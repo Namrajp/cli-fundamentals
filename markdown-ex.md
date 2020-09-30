@@ -8,8 +8,8 @@
 
 ## Bold and Italics Text
 This is about **Markdown Introduction**   
-\**Bold Text\** \__Bold Text underscores\__
-\_italics Text\_  I am _Italics_ and I am __bold__ or **bold**
+\***Bold Text\*** \___Bold Text underscores\___
+\_italics Text\_  I am _Italics text with single underscore on both sides_ and I am __bold__ or **bold**
 
 ## Ordered and Unordered Lists
 The lists with : \* Asteriks is Used for bulleted list 
