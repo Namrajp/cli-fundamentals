@@ -8,8 +8,9 @@
 
 ## Bold and Italics Text
 This is about **Markdown Introduction**   
-\***Bold Text\*** \___Bold Text underscores\___
-\_italics Text\_  I am _Italics text with single underscore on both sides_ and I am __bold__ or **bold**
+\***Bold Text\***   \___Bold Text underscores\___
+\_italics Text\_  
+I am _Italics text with single underscore on both sides_ and  I am __bold__ or **bold**
 
 ## Ordered and Unordered Lists
 The lists with : \* Asteriks is Used for bulleted list 
@@ -18,13 +19,9 @@ The lists with : \* Asteriks is Used for bulleted list
 * three
 
 Another ordered list :
-
 1 This list 
-
 2 Second
-
 3 Third
-
 
 ## Links 
 Syntax:[Text to Link(actual Link)
@@ -46,7 +43,8 @@ Syntax: ![alt Text] (image link)
 
 
 ## Emoji and @ someone 
-
+Writing emojis start with colon \: and ends with\: with emoji word within.like smile, kiss,
+rainbow, fire, flower, wink, desktop, floppy_disk, moon_crescent etc.
 @marko 
 @catalin 
 
