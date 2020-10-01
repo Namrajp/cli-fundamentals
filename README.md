@@ -13,7 +13,7 @@ Terminal is a user interface for typing commands. Bash is the program for runnin
 `mkdir` makes a directory
 `cd` changes directory.
 `rm` removes a files. `rm -rf some-dir` removes a directory.
-
+[More Information](./basic-commands.md)
 # Find 
 Used for finding files and folders, starts with find Path Expression, Expression can be wildcard exp or Regex exp E
 [More Information](./find-grep.md)
@@ -23,6 +23,13 @@ Used For finding strings in a single or multiple text files, also finds files in
 
 # Sed
 [More Information](./sed.md)
+
+
+# System Information 
+[More Information](./systemInfo.md)
+
+# Lock Issues 
+[More Information](./lockIssues.md)
 
 
 # Markdowns 
