@@ -4,9 +4,9 @@
 ## Difference between Terminal and bash
 Terminal is a user interface for typing commands. Bash is the program for running commands stored in the different paths.
 
-## Navigating in the terminal
+## [Navigating in the terminal](./basic-commands.md)
 `pwd` outputs present working directory, `whoami` prints current user.
-## Working with files and folders
+## [Working with files and folders](./basic-commands.md)
 `touch` create an new file.
 `cp` copies a file ex.  `cp first.txt second.txt` -r flag is used to copy directory.
 `mp` renames or moves a file ex.  `cp first.txt second.txt`
@@ -14,24 +14,24 @@ Terminal is a user interface for typing commands. Bash is the program for runnin
 `cd` changes directory.
 `rm` removes a files. `rm -rf some-dir` removes a directory.
 [More Information](./basic-commands.md)
-# Find 
+# [Find](./find-grep.md)
 Used for finding files and folders, starts with find Path Expression, Expression can be wildcard exp or Regex exp E
 [More Information](./find-grep.md)
-# Grep
+# [Grep](./find-grep.md)
 Used For finding strings in a single or multiple text files, also finds files in folders for a string value. Used with pipes,ps,cat, and ls etc.
 [More Information](./find-grep.md)
 
-# Sed
+# [Sed](./sed.md)
 [More Information](./sed.md)
 
 
-# System Information 
+# System Information
 [More Information](./systemInfo.md)
 
-# Lock Issues 
+# [Lock Issues](./lockIssues.md)
 [More Information](./lockIssues.md)
 
 
-# Markdowns 
+# [Markdowns](./markdown.md) 
 Used for writing docs on the web, sometimes html file is written in markdown.
 [More Information](./markdown.md)
