@@ -24,9 +24,9 @@ Another ordered list :
 3 Third
 
 ## Links 
-Syntax:[Text to Link(actual Link)
+Syntax:
+[Text to Link](actual Link)    
 The link [google link!](http://google.com)
-and another cat
 
 ## Blockquote (using >)
 > This is a blockquote example.
@@ -36,8 +36,8 @@ and another cat
 > This is a blockquote example.
 
 ## Images 
-Syntax: ![alt Text] (image link)
-![ca](img/c.jpeg)
+Syntax: ![alt Text] (image link)  
+![ca](img/c.jpeg)  
 ![cat image](./img/cat.jpeg)
 
 
@@ -54,4 +54,6 @@ rainbow, fire, flower, wink, desktop, floppy_disk, moon_crescent etc.
 :smile:
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+[Cli fundamentals](https://github.com/Namrajp/cli-fundamentals)
 
