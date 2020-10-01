@@ -22,7 +22,7 @@ __Usage__ Find is used to find files or folders. Example,
 `find downloads`  if you are in ~ or home folder then it outputs list of files in downloads
 
 `find /etc/ -name "resolv.conf"`   
-`find . -name "*.???"` ? is for single char so any files with three ext. 
+`find . -name "*.???"` ? is for single char so any files with three text. 
 `find . -name "*main*"` finds any files with word main within
 
 `find . -name "first.txt"`  
