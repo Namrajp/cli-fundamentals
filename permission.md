@@ -18,4 +18,4 @@ The User nava is the owner and he is member of group staff. Other info is last u
  # Links
   Symlinks are used for soft links to a folder or files. While hard links are just like copy of file or folder.
   ` $ ln first-file.txt hard-link`
-  `$ ln first.html my-link`
+  `$ ln -s first.html my-soft-link`
