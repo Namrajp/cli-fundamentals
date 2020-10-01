@@ -15,28 +15,15 @@ Terminal is a user interface for typing commands. Bash is the program for runnin
 `rm` removes a files. `rm -rf some-dir` removes a directory.
 
 # Find 
-**Syntax:** filepath expression  
-__Usage__ Find is used to find files or folders. Example,
+Used for finding files and folders, starts with find Path Expression, Expression can be wildcard exp or Regex exp E
+[More Information](./find-grep.md)
+# Grep
+Used For finding strings in a single or multiple text files, also finds files in folders for a string value. Used with pipes,ps,cat, and ls etc.
+[More Information](./find-grep.md)
 
-## Examples
-`find downloads`  if you are in ~ or home folder then it outputs list of files in downloads
+# Sed
 
-`find /etc/ -name "resolv.conf"`   
-`find . -name "*.???"` ? is for single char so any files with three text. 
-`find . -name "*main*"` finds any files with word main within
 
-`find . -name "first.txt"`  
-`find . -name "[fts]*"` files with any of characters fts.
-
-# Grep 
-**Syntax** expression file/filepath
-__Usage__ grep is used to find specific string or text file
-
-## Examples
-
-`grep -r eth0 /etc/*`  
-`grep eth[01] /etc/*`  
-`grep -E "127.*(twain\.example\.com|localhost)"`
-
-`grep -i "elie" names.txt`  
-`ps ax | grep xterm`
+# Markdowns 
+Used for writing docs on the web, sometimes html file is written in markdown.
+[More Information](./markdown.md)
