@@ -1,4 +1,5 @@
-# Environment Variables Environment variables are group of system settings. Typing
+# Environment Variables
+ Environment variables are group of system settings. Typing
 `env` reveals list of variables and values, capital letters on environment variables.
 `$ echo $PATH`
 
