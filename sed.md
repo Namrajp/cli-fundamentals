@@ -3,9 +3,11 @@
 The following commands are
 equivalent:
 
+    ```bash
      sed 's/hello/world/' input.txt > output.txt
      sed 's/hello/world/' < input.txt > output.txt
      cat input.txt | sed 's/hello/world/' - > output.txt
+     ```
 
 -g flag means global, -i means in place if editing a file, i means edit in place. 
 

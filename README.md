@@ -22,6 +22,7 @@ Used For finding strings in a single or multiple text files, also finds files in
 [More Information](./find-grep.md)
 
 # Sed
+[More Information](./sed.md)
 
 
 # Markdowns 
