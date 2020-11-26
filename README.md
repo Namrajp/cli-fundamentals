@@ -9,7 +9,7 @@ Terminal is a user interface for typing commands. Bash is the program for runnin
 ## [Working with files and folders](./basic-commands.md)
 `touch` create an new file.
 `cp` copies a file ex.  `cp first.txt second.txt` -r flag is used to copy directory.
-`mp` renames or moves a file ex.  `cp first.txt second.txt`
+`mv` renames or moves a file ex.  `cp first.txt second.txt`
 `mkdir` makes a directory
 `cd` changes directory.
 `rm` removes a files. `rm -rf some-dir` removes a directory.
