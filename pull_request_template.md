@@ -1,0 +1,3 @@
+- Click on `Add file`
+- Create new file
+- Add a template  file with name 
