@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: bug, documentation, good first issue
-assignees: Namrajp
+labels: ''
+assignees: ''
 
 ---
 
